@@ -3,13 +3,10 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    //Cores dos "Buttons"
+    //Cores primárias
     <color name="primary_400">#cd00ea</color>
     <color name="primary_900">#5c00d2</color>
-    //Cores das Classificações
+    //Cores das Classificações do IMC
     <color name="verde">#4CAF50</color>
     <color name="vermelho">#D32F2F</color>
-    //Cores do gradiente
-    <color name="start">#1153ED</color>
-    <color name="end">#5F8FEA</color>
 </resources>
