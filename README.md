@@ -10,6 +10,7 @@ Este projeto é um aplicativo Android Nativo desenvolvido em Kotlin, que calcula
 - Activity
 - Intent
 - Snackbar
+- screenOrientation
 - Viewgroups:
   - LinearLayout
   - ConstraintLayout
