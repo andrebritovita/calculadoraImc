@@ -3,8 +3,7 @@ Este projeto é um aplicativo Android Nativo desenvolvido em Kotlin, que calcula
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/user-attachments/assets/66ee9c23-cad5-475b-8ccb-9cf1a255a5cb" width=200/> <img src="https://github.com/user-attachments/assets/9f380270-d3d1-40c1-9a8a-f303fb69333e" width=200/>
-
+<img src="https://github.com/user-attachments/assets/53e69cde-718a-43e5-91ee-e119eb235a09" width=200/> <img src="https://github.com/user-attachments/assets/194a70b1-7fad-4aa9-b52e-71f87f3785f5" width=200/>
 
 ## Tecnologias
 - Activity
