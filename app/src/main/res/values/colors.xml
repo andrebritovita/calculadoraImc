@@ -4,8 +4,8 @@
     <color name="white">#FFFFFFFF</color>
 
     //Cores primárias
-    <color name="primary_400">#cd00ea</color>
-    <color name="primary_900">#5c00d2</color>
+    <color name="primary_400">#4A90E2</color>
+    <color name="primary_900">#1C1CE0</color>
     //Cores das Classificações do IMC
     <color name="verde">#4CAF50</color>
     <color name="vermelho">#D32F2F</color>
