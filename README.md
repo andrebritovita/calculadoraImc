@@ -21,7 +21,7 @@ Este projeto é um aplicativo Android Nativo desenvolvido em Kotlin, que calcula
  
  ## Métodos e Recursos
  - findViewById
- - Estruturas condicionais (if/else if/ else)
+ - Estruturas condicionais (when/ in.. ->/ else)
  - ContextCompat.getColor()/ setTextColor() 
 
 
